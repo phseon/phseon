@@ -9,8 +9,10 @@
 <h2>프로젝트</h2>
 <h3>오늘의 치과 [today]</h3>
 
-<kbd><img src="https://drive.google.com/uc?id=14UZrWD-XvemMqQT9YfOOp_pW_EOzpOIU" width="480px" height="270px"></kbd>
-<kbd><img src="https://drive.google.com/uc?id=13SgZASPVEsHmiQEd6NPe58BAtYp4khRr" width="480px" height="270px"></kbd>
+<kbd><img src="https://drive.google.com/uc?id=14UZrWD-XvemMqQT9YfOOp_pW_EOzpOIU" width="480px" height="270px"
+          onerror="this.style.display='none'"></kbd>
+<kbd><img src="https://drive.google.com/uc?id=13SgZASPVEsHmiQEd6NPe58BAtYp4khRr" width="480px" height="270px"
+          onerror="this.style.display='none'"></kbd>
 
 > 교육과정 : AWS 클라우드 활용 자바(Java) Full-Stack 개발자 양성 과정<br>
 > 프로젝트 기간 : 2022.12.21.~2023.01.13.<br>
@@ -23,8 +25,10 @@
 
 <h3>취미 상점 [hobby_store]</h3>
 
-<kbd><img src="https://drive.google.com/uc?id=1NsJ399kfhB0DanhR-hDuQayfjSbOnE2z" width="480px" height="270px"></kbd>
-<kbd><img src="https://drive.google.com/uc?id=1Y09bJFCJEk_JrQV0ldJtXsXi51DRIMc3" width="480px" height="270px"></kbd>
+<kbd><img src="https://drive.google.com/uc?id=1NsJ399kfhB0DanhR-hDuQayfjSbOnE2z" width="480px" height="270px"
+          onerror="this.style.display='none'"></kbd>
+<kbd><img src="https://drive.google.com/uc?id=1Y09bJFCJEk_JrQV0ldJtXsXi51DRIMc3" width="480px" height="270px"
+          onerror="this.style.display='none'></kbd>
  
 > 교육과정 : AWS 클라우드 활용 자바(Java) Full-Stack 개발자 양성 과정<br>
 > 프로젝트 기간 : 2023.02.06.~2023.03.12.<br>
