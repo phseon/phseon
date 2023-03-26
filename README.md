@@ -7,7 +7,7 @@
 </div>
 
 <h2>프로젝트</h2>
-<h3>오늘의 치과 [today]</h3>
+<h3><a href="https://github.com/phseon/today">오늘의 치과 [today]</a></h3>
 
 <kbd><img src="https://drive.google.com/uc?id=14UZrWD-XvemMqQT9YfOOp_pW_EOzpOIU" width="480px" height="270px"
           onerror="this.style.display='none'"></kbd>
@@ -23,7 +23,7 @@
 가상의 치과를 구상하여 치과 예약부터 리뷰 작성, 이벤트 신청 등이 가능한 사이트를 만들었습니다.
 <br>
 
-<h3>취미 상점 [hobby_store]</h3>
+<h3><a href="https://github.com/Dori-github/hobby_store">취미 상점 [hobby_store]</a></h3>
 
 <kbd><img src="https://drive.google.com/uc?id=1NsJ399kfhB0DanhR-hDuQayfjSbOnE2z" width="480px" height="270px"
           onerror="this.style.display='none'"></kbd>
